@@ -1,0 +1,6 @@
+music21>=9.1
+torch>=2.0
+numpy
+matplotlib
+# optional, only for converting MIDI -> WAV audio:
+midi2audio
